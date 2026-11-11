@@ -1,0 +1,8 @@
+# Authorized targets (one per line). Only add systems you own or have
+# WRITTEN permission to test. Lines starting with # are ignored.
+# Examples:
+# 192.168.1.10
+# lab.example.org
+# *.example.org
+localhost
+127.0.0.1
